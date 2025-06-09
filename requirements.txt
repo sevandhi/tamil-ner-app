@@ -1,0 +1,4 @@
+Flask
+sklearn-crfsuite
+pandas
+openpyxl
